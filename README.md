@@ -39,12 +39,10 @@ The environment is your enemy, your friend, your teacher — and eventually, you
 ---
 
 ## 🛠️ **Tech Stack**
-- **Engine:** Unity / Unreal (specify what you're using)
-- **Language:** C# / C++ depending on engine
-- **3D Assets:** Blender / Quixel / Mixamo
-- **Audio:** Open-Source SFX + Custom ambience
+- TypeScript
+- JavaScript
 
-*(Tell me what engine you're using and I’ll tailor this section exactly.)*
+
 
 ---
 
