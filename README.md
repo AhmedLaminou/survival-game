@@ -1,73 +1,82 @@
-# Welcome to your Lovable project
+# 🏹 **SURVIVOR’S ECHO**  
+*A 3D Survival Experience — Where Every Second Counts.*
 
-## Project info
+Welcome to **Survivor’s Echo**, a 3D open-world survival game where nature is beautiful, resources are scarce, and **you are very, very alone.**  
+Cut trees. Hunt. Craft tools. Build shelter. Fight hunger.  
+And most importantly…
 
-**URL**: https://lovable.dev/projects/d4113fd4-9842-4d75-bcb2-555e74354513
+**Survive.**
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌍 **Game Overview**
 
-**Use Lovable**
+You wake up in a vast wilderness with nothing but your instincts.  
+The environment is your enemy, your friend, your teacher — and eventually, your grave… unless you adapt.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d4113fd4-9842-4d75-bcb2-555e74354513) and start prompting.
+### 🧭 Core Mechanics
+- 🌲 **Resource Gathering** – Wood, stone, minerals… if you can find it, you can use it.
+- 🔨 **Crafting System** – Tools, weapons, shelters, fire… survival depends on what you build.
+- 🏚️ **Base Building** – From a fragile hut to a fortified camp.
+- 🐺 **Wildlife AI** – Hunt… and avoid being hunted.
+- 🌧️ **Weather & Day/Night Cycle** – Cold nights are not your friend.
+- ⚔️ **Combat & Stealth** – Sometimes, running is smarter than fighting.
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🎮 **Controls** (Default)
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+| Action | Key |
+|-------|-----|
+| Move  | WASD |
+| Look Around | Mouse |
+| Jump | Space |
+| Interact / Pick | E |
+| Inventory | I |
+| Attack | Left Click |
+| Block / Aim | Right Click |
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+---
 
-Follow these steps:
+## 🛠️ **Tech Stack**
+- **Engine:** Unity / Unreal (specify what you're using)
+- **Language:** C# / C++ depending on engine
+- **3D Assets:** Blender / Quixel / Mixamo
+- **Audio:** Open-Source SFX + Custom ambience
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+*(Tell me what engine you're using and I’ll tailor this section exactly.)*
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 🚀 **Getting Started**
+```bash
+# Clone the repository
+git clone https://github.com/<your-username>/<your-repo-name>.git
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+# Open the project in your game engine editor
 
-**Edit a file directly in GitHub**
+🏗️ Planned Features
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+⚒️ Multiplayer Co-Op
 
-**Use GitHub Codespaces**
+🧑‍🌾 Farming system
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+🧭 Expanded world map
 
-## What technologies are used for this project?
+🏹 Advanced hunting + traps system
 
-This project is built with:
+🐻 Boss-tier wildlife encounters (yes, the bear will find you)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+🤝 Contributions
 
-## How can I deploy this project?
+Want to help shape the wilderness?
+PRs, feedback, and wild ideas are welcome.
 
-Simply open [Lovable](https://lovable.dev/projects/d4113fd4-9842-4d75-bcb2-555e74354513) and click on Share -> Publish.
+Check it out here : survival-in-space.vercel.app
 
-## Can I connect a custom domain to my Lovable project?
+🧑 Author
 
-Yes, you can!
+Ahmed Laminou
+🌍 Survivor of bugs, compiler errors, and questionable design choices.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
